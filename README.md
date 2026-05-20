@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M32</h1>
-<h3 align="center">A Roblox Game and python-beginner developer, content creator, editor, gamer that gets banned 24/7..</h3>
+<h3 align="center">A Roblox Game and python-beginner developer, content creator, editor and a gamer.</h3>
 
 - 🌱 I’m currently learning **how to master coding languages :P**
 
